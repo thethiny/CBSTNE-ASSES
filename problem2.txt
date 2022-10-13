@@ -1,0 +1,4 @@
+# LRU CACHE
+
+LRU cache has capacity
+can't insert n amount until popping our previous cache, remove least used element
